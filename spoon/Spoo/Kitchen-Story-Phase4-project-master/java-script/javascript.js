@@ -5,7 +5,7 @@ var password=document.getElementById("password");
 var captcha=document.getElementById("captcha");
 
 function login(){
-if(email.value=="spoorthi.thaduri88@gmail.com" && password.value==1234)
+if(email.value=="nisharavindrachavan@gmail.com" && password.value==1234)
     {
         if(captcha.value=="Q23f42"){
 
